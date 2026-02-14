@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.22)  3 FEB 2026 11:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.22)  3 FEB 2026 11:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1203,9 +1203,8 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `DNA_I_III_group23_Kuemmerle_Haase.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'DNA_I_III_group23_Kuemmerle_Haase.bbl' not found.
-
-No file DNA_I_III_group23_Kuemmerle_Haase.bbl.
+Package biblatex Info: ... file 'DNA_I_III_group23_Kuemmerle_Haase.bbl' found.
+ (./DNA_I_III_group23_Kuemmerle_Haase.bbl)
 Package biblatex Info: Reference section=0 on input line 87.
 Package biblatex Info: Reference segment=0 on input line 87.
 
@@ -1214,7 +1213,7 @@ Package chemgreek Info: Activating mapping `default' on line 87.
 Package scrbase Info: activating english \figurename on input line 87.
 Package scrbase Info: activating english \tablename on input line 87.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 102.
-(c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 102.
@@ -1224,57 +1223,6 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [1
 
-{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
-No file DNA_I_III_group23_Kuemmerle_Haase.toc.
-\tf@toc=\write5
-\openout5 = `DNA_I_III_group23_Kuemmerle_Haase.toc'.
-
-
-
-[2]
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.140 \newpage
-               [1
-
-]
-
-LaTeX Warning: Empty bibliography on input line 142.
-
-(./DNA_I_III_group23_Kuemmerle_Haase.aux)
- ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-09-02>
- ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                DNA_I_III_group23_Kuemmerle_Haase
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'DNA_I_III_group23_Kuemmerle_Haase.run.xml'.
-\openout1 = `DNA_I_III_group23_Kuemmerle_Haase.run.xml'.
-
- ) 
-Here is how much of TeX's memory you used:
- 42299 strings out of 467748
- 896983 string characters out of 5431137
- 1830998 words of memory out of 5000000
- 70464 multiletter control sequences out of 15000+600000
- 640114 words of font info for 68 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 108i,19n,107p,11321b,1787s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb>
-Output written on DNA_I_III_group23_Kuemmerle_Haase.pdf (3 pages, 78255 bytes).
-PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+!pdfTeX error: pdflatex.exe (file c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map): fflush() failed (Invalid argument)
+ ==> Fatal error occurred, no output PDF file produced!
