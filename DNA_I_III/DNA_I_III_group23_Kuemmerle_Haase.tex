@@ -1,8 +1,8 @@
-\documentclass[a4paper,12pt,bibliography=totocnumbered]{scrartcl}
+\documentclass[a4paper,12pt,bibliography=totocnumbered,parskip=half]{scrartcl}
 
 \usepackage[utf8]{inputenc} 
 \usepackage[T1]{fontenc}
-\usepackage[english]{babel}
+\usepackage[british]{babel}
 \usepackage{amsmath, amssymb,amsfonts}
 \usepackage{graphicx}
 \usepackage{csquotes}
@@ -13,20 +13,20 @@
 \usepackage{framed, color} 
 \usepackage{scrlayer-scrpage}
 \usepackage{siunitx}
+\usepackage{caption}
 \usepackage{subcaption}
-\renewcaptionname{english}{\figurename}{Fig.}
-\renewcaptionname{english}{\tablename}{Tab.}
+\renewcaptionname{british}{\figurename}{Fig.}
+\renewcaptionname{british}{\tablename}{Tab.}
 \sisetup{
     detect-weight=true, 
     detect-family=true,
     locale=UK,
     exponent-product = \cdot,
-    range-phrase={\,bis\,},
+    range-phrase={\,to\,},
     list-final-separator ={\,\linebreak[0] \text{and}\,},
     separate-uncertainty=true,
     per-mode = symbol-or-fraction
 }
-%macht komata anstatt kreuze bei Zehnerpotenzen
 
 \DeclareSIUnit{\angstrom}{\text{\AA}}
 \usepackage[backend=biber, style=chem-angew]{biblatex} 
@@ -49,21 +49,21 @@
 
 %\numberwithin{equation}{section}
 
-\setlength{\parindent}{0 mm}
-\setlength{\parskip}{2 mm} 
-
 
 
 \pagestyle{scrheadings}
-%Header oben links auf linker Seite (ungerade Seitenzahl) und oben rechts auf rechter Seite (gerade Seitenzahl), beinhaltet gruppennummer und VersuchskÃ¼rzel. Im Fall eine einseitigen Dokuments: Header oben rechts
-\ihead{\VERSUCHSNR} %Header oben rechts auf linker Seite und oben links auf rechter Seite. Beinhaltet die Namen der Verfasser. Im Fall eine einseitigen Dokuments: Header oben links!
-\ohead{\GRUPPENNR}
+\automark{section} % Sagt LaTeX: "Merk dir den Namen der aktuellen Section"
+\ihead{\headmark}
+\chead{\empty}
+\ohead{Group \GRUPPENNR}
 \ofoot{\thepage} 
 \cfoot{\empty}  
 \ifoot{\empty} 
 
+\usepackage[en-GB]{datetime2} 
+%\DTMlangsetup[en-GB]{ord=omit} % Optional: "10 March" statt "10th March"
 
-\newcommand{\VERSUCHSDATUM}{10.03.2026}
+\newcommand{\VERSUCHSDATUM}{\DTMdisplaydate{2026}{3}{10}{-1}}
 \newcommand{\PROTOKOLLDATUM}{\today}
 
 \newcommand{\VerfasserEINS}{Vincent Kümmerle}
@@ -93,7 +93,7 @@
 \begin{center}
 \Huge{\textbf{\VERSUCHSNAME}}\\
 \vspace{10mm}% Abstand
-\Large{Protocol for the PC 2 lab course by \\ \textbf{\VerfasserEINS\;\& \VerfasserZWEI}}\\
+\Large{Protocol for the Biochemistry lab course by \\ \textbf{\VerfasserEINS\;\& \VerfasserZWEI}}\\
 \vspace{10mm} 
 \Large{University of Stuttgart}\\
 \end{center}
@@ -119,8 +119,6 @@
 \vspace{1cm}
 
 
-%\textbf{Abstract:}
-
 \end{titlepage}
 
 
@@ -134,7 +132,18 @@
 \setcounter{page}{1}
 
 
-\section{Theory}
+\section{Introduction}
+
+
+\newpage
+\section{Materials and Methods}
+
+
+\section{Results}
+
+
+\section{Discussion}
+
 
 
 \newpage
