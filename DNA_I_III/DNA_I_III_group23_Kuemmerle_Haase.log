@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.22)  8 MAR 2026 11:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.22)  13 MAR 2026 17:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -65,8 +65,8 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \evensidemargin = 2.4185pt
 (typearea)              \oddsidemargin  = 2.4185pt
 (typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 635.5pt
-(typearea)              \topmargin      = -41.72441pt
+(typearea)              \textheight     = 606.5pt
+(typearea)              \topmargin      = -1.84941pt
 (typearea)              \headheight     = 18.125pt
 (typearea)              \headsep        = 21.75pt
 (typearea)              \topskip        = 12.0pt
@@ -633,7 +633,7 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'chem-angew.dbx' not found.
+Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count391
@@ -741,50 +741,28 @@ File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 \biburllcskip=\muskip22
 \c@smartand=\count467
 )
-Package biblatex Info: Trying to load bibliography style 'chem-angew'...
-Package biblatex Info: ... file 'chem-angew.bbx' found.
- (c:/texlive/2025/texmf-dist/tex/latex/biblatex-chem/chem-angew.bbx
-File: chem-angew.bbx 2025-09-05 v1.2a biblatex bibliography style
-Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
-Package biblatex Info: ... file 'numeric-comp.bbx' found.
- (c:/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
-File: numeric-comp.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
-Package biblatex Info: Trying to load bibliography style 'numeric'...
-Package biblatex Info: ... file 'numeric.bbx' found.
- (c:/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-File: numeric.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+ (c:/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (c:/texlive/2025/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count468
 \c@bbx:relatedtotal=\count469
-))))
-Package biblatex Info: Trying to load citation style 'chem-angew'...
-Package biblatex Info: ... file 'chem-angew.cbx' found.
- (c:/texlive/2025/texmf-dist/tex/latex/biblatex-chem/chem-angew.cbx
-File: chem-angew.cbx 2025-09-05 v1.2a biblatex citation style
-Package biblatex Info: Trying to load citation style 'numeric-comp'...
-Package biblatex Info: ... file 'numeric-comp.cbx' found.
- (c:/texlive/2025/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
-File: numeric-comp.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count470
-\c@cbx@tempcntb=\count471
-\c@cbx@tempcntc=\count472
-\c@cbx@tempcntd=\count473
+))
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
+ (c:/texlive/2025/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
+File: authoryear.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
 Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\supercite'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
-Package biblatex Info: Redefining '\cites'.
-Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\smartcites'.
-)
-Package biblatex Info: Redefining '\supercite'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -797,7 +775,7 @@ Package biblatex Info: Document encoding is UTF8 ....
 Package: expl3 2025-09-02 L3 programming layer (loader) 
  (c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count474
+\l__color_backend_stack_int=\count470
 ))
 Package biblatex Info: ... and expl3
 (biblatex)             2025-09-02 L3 programming layer (loader) 
@@ -807,10 +785,14 @@ Package biblatex Info: ... and expl3
 Package: xparse 2024-08-16 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
-)) (c:/texlive/2025/texmf-dist/tex/latex/chemgreek/chemgreek.sty
+))
+Package biblatex Info: Delimiter 'multinamedelim' in context '' already defined, overwriting on input line 41.
+Package biblatex Info: Delimiter 'finalnamedelim' in context '' already defined, overwriting on input line 42.
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting on input line 44.
+ (c:/texlive/2025/texmf-dist/tex/latex/chemgreek/chemgreek.sty
 Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use in chemistry (CN)
-\l__chemgreek_tmpa_int=\count475
-\g__chemgreek_tmpa_int=\count476
+\l__chemgreek_tmpa_int=\count471
+\g__chemgreek_tmpa_int=\count472
 ) (c:/texlive/2025/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
 ) (c:/texlive/2025/texmf-dist/tex/latex/chemformula/chemformula.sty (c:/texlive/2025/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/texlive/2025/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (c:/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (c:/texlive/2025/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
@@ -843,14 +825,14 @@ Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@yd=\dimen266
 \w@pgf@writea=\write4
 \r@pgf@reada=\read4
-\c@pgf@counta=\count477
-\c@pgf@countb=\count478
-\c@pgf@countc=\count479
-\c@pgf@countd=\count480
+\c@pgf@counta=\count473
+\c@pgf@countb=\count474
+\c@pgf@countc=\count475
+\c@pgf@countd=\count476
 \t@pgf@toka=\toks37
 \t@pgf@tokb=\toks38
 \t@pgf@tokc=\toks39
-\pgf@sys@id@count=\count481
+\pgf@sys@id@count=\count477
  (c:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
 )
@@ -861,21 +843,21 @@ File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
 File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
 ))) (c:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfsyssoftpath@smallbuffer@items=\count482
-\pgfsyssoftpath@bigbuffer@items=\count483
+\pgfsyssoftpath@smallbuffer@items=\count478
+\pgfsyssoftpath@bigbuffer@items=\count479
 ) (c:/texlive/2025/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )) (c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
  (c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen267
-\pgfmath@count=\count484
+\pgfmath@count=\count480
 \pgfmath@box=\box72
 \pgfmath@toks=\toks40
 \pgfmath@stack@operand=\toks41
 \pgfmath@stack@operation=\toks42
 ) (c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count485
+\c@pgfmathroundto@lastzeros=\count481
 )) (c:/texlive/2025/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@picminx=\dimen268
@@ -905,7 +887,7 @@ File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfpic=\box73
 \pgf@hbox=\box74
 \pgf@layerbox@main=\box75
-\pgf@picture@serial@count=\count486
+\pgf@picture@serial@count=\count482
 ) (c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgflinewidth=\dimen286
@@ -926,8 +908,8 @@ File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@max=\dimen291
-\pgf@sys@shading@range@num=\count487
-\pgf@shadingcount=\count488
+\pgf@sys@shading@range@num=\count483
+\pgf@shadingcount=\count484
 ) (c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ) (c:/texlive/2025/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
@@ -962,7 +944,7 @@ Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
 Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
  (c:/texlive/2025/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgf@plot@mark@count=\count489
+\pgf@plot@mark@count=\count485
 \pgfplotmarksize=\dimen296
 )
 \tikz@lastx=\dimen297
@@ -977,17 +959,17 @@ File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \tikz@figbox@bg=\box79
 \tikz@tempbox=\box80
 \tikz@tempbox@bg=\box81
-\tikztreelevel=\count490
-\tikznumberofchildren=\count491
-\tikznumberofcurrentchild=\count492
-\tikz@fig@count=\count493
+\tikztreelevel=\count486
+\tikznumberofchildren=\count487
+\tikznumberofcurrentchild=\count488
+\tikz@fig@count=\count489
  (c:/texlive/2025/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-\pgfmatrixcurrentrow=\count494
-\pgfmatrixcurrentcolumn=\count495
-\pgf@matrix@numberofcolumns=\count496
+\pgfmatrixcurrentrow=\count490
+\pgfmatrixcurrentcolumn=\count491
+\pgf@matrix@numberofcolumns=\count492
 )
-\tikz@expandcount=\count497
+\tikz@expandcount=\count493
  (c:/texlive/2025/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ))) (c:/texlive/2025/texmf-dist/tex/latex/xfrac/xfrac.sty
@@ -1030,9 +1012,9 @@ Package: chemformula 2022/01/23 v4.17 typeset chemical compounds and reactions (
 \l__chemformula_tmpa_dim=\dimen314
 \l__chemformula_tmpb_dim=\dimen315
 \l__chemformula_tmpc_dim=\dimen316
-\l__chemformula_tmpa_int=\count498
-\l__chemformula_tmpb_int=\count499
-\l__chemformula_tmpc_int=\count500
+\l__chemformula_tmpa_int=\count494
+\l__chemformula_tmpb_int=\count495
+\l__chemformula_tmpc_int=\count496
 \l__chemformula_tmpa_box=\box84
 \l__chemformula_tmpb_box=\box85
 \l__chemformula_arrow_length_dim=\dimen317
@@ -1066,8 +1048,8 @@ Package: chemformula 2022/01/23 v4.17 typeset chemical compounds and reactions (
 \l__chemformula_stoich_space_skip=\skip100
 \l__chemformula_math_space_skip=\skip101
 \l__chemformula_additions_symbol_space_skip=\skip102
-\l__chemformula_count_tokens_int=\count501
-\g__chemformula_lewis_int=\count502
+\l__chemformula_count_tokens_int=\count497
+\g__chemformula_lewis_int=\count498
 \l__chemformula_arrow_arg_i_box=\box86
 \l__chemformula_arrow_arg_ii_box=\box87
 \l__chemformula_superscript_box=\box88
@@ -1075,8 +1057,8 @@ Package: chemformula 2022/01/23 v4.17 typeset chemical compounds and reactions (
 \l__chemformula_plus_space_skip=\skip103
 \l__chemformula_minus_space_skip=\skip104
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 48.
-Package hyperref Info: Option `linktocpage' set `true' on input line 48.
+Package hyperref Info: Option `colorlinks' set `true' on input line 60.
+Package hyperref Info: Option `linktocpage' set `true' on input line 60.
  (c:/texlive/2025/texmf-dist/tex/latex/datetime2/datetime2.sty
 Package: datetime2 2021/03/21 v1.5.7 (NLCT) date and time formats
  (c:/texlive/2025/texmf-dist/tex/latex/tracklang/tracklang.sty
@@ -1090,7 +1072,7 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks45
 \XKV@tempa@toks=\toks46
 )
-\XKV@depth=\count503
+\XKV@depth=\count499
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 Package tracklang Info: Tracking dialect `british' (language `english') on input line 217.
@@ -1110,54 +1092,55 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 87.
+(scrartcl)           before \begin{document} on input line 99.
  (c:/texlive/2025/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (c:/texlive/2025/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
-\BKM@id=\count504
-)) (./DNA_I_III_group23_Kuemmerle_Haase.aux)
+\BKM@id=\count500
+))
+No file DNA_I_III_group23_Kuemmerle_Haase.aux.
 \openout1 = `DNA_I_III_group23_Kuemmerle_Haase.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-Package scrbase Info: activating british \abstractname on input line 87.
-Package scrbase Info: activating british \partname on input line 87.
-Package scrbase Info: activating british \figurename on input line 87.
-Package scrbase Info: activating british \tablename on input line 87.
-Package scrbase Info: activating british \contentsname on input line 87.
-Package scrbase Info: activating british \listfigurename on input line 87.
-Package scrbase Info: activating british \listtablename on input line 87.
-Package scrbase Info: activating british \refname on input line 87.
-Package scrbase Info: activating british \indexname on input line 87.
- (c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+Package scrbase Info: activating british \abstractname on input line 99.
+Package scrbase Info: activating british \partname on input line 99.
+Package scrbase Info: activating british \figurename on input line 99.
+Package scrbase Info: activating british \tablename on input line 99.
+Package scrbase Info: activating british \contentsname on input line 99.
+Package scrbase Info: activating british \listfigurename on input line 99.
+Package scrbase Info: activating british \listtablename on input line 99.
+Package scrbase Info: activating british \refname on input line 99.
+Package scrbase Info: activating british \indexname on input line 99.
+(c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count505
+\scratchcounter=\count501
 \scratchdimen=\dimen345
 \scratchbox=\box90
-\nofMPsegments=\count506
-\nofMParguments=\count507
+\nofMPsegments=\count502
+\nofMParguments=\count503
 \everyMPshowfont=\toks47
-\MPscratchCnt=\count508
+\MPscratchCnt=\count504
 \MPscratchDim=\dimen346
-\MPnumerator=\count509
-\makeMPintoPDFobject=\count510
+\MPnumerator=\count505
+\makeMPintoPDFobject=\count506
 \everyMPtoPDFconversion=\toks48
 ) (c:/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1165,7 +1148,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (c:/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 87.
+Package hyperref Info: Link coloring ON on input line 99.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1231,25 +1214,26 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'DNA_I_III_group23_Kuemmerle_Haase.bbl' found.
  (./DNA_I_III_group23_Kuemmerle_Haase.bbl)
-Package biblatex Info: Reference section=0 on input line 87.
-Package biblatex Info: Reference segment=0 on input line 87.
+Package biblatex Info: Reference section=0 on input line 99.
+Package biblatex Info: Reference segment=0 on input line 99.
 
-Package chemgreek Info: Activating mapping `default' on line 87.
+Package chemgreek Info: Activating mapping `default' on line 99.
 
-Package scrbase Info: activating british \figurename on input line 87.
-Package scrbase Info: activating british \tablename on input line 87.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 102.
+Package scrbase Info: activating british \figurename on input line 99.
+Package scrbase Info: activating british \tablename on input line 99.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 115.
  (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 102.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 115.
  (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 
 [1
 
-{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] (./DNA_I_III_group23_Kuemmerle_Haase.toc)
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
+No file DNA_I_III_group23_Kuemmerle_Haase.toc.
 \tf@toc=\write5
 \openout5 = `DNA_I_III_group23_Kuemmerle_Haase.toc'.
 
@@ -1261,7 +1245,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.138 \newpage
+l.152 \newpage
                [1
 
 ]
@@ -1270,33 +1254,79 @@ l.138 \newpage
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.149 \newpage
+l.165 \newpage
                [2]
+c:/Users/vinma/Documents/Chemie Studium/5. Semester/Biochemie Lab/BC-Lab/DNA_I_III/DNA_I_III_group23_Kuemmerle_Haase.tex:167: Missing $ inserted.
+<inserted text> 
+                $
+l.167 \printbibliography[]
+                          
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-LaTeX Warning: Empty bibliography on input line 151.
+c:/Users/vinma/Documents/Chemie Studium/5. Semester/Biochemie Lab/BC-Lab/DNA_I_III/DNA_I_III_group23_Kuemmerle_Haase.tex:167: Missing $ inserted.
+<inserted text> 
+                $
+l.167 \printbibliography[]
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
-(./DNA_I_III_group23_Kuemmerle_Haase.aux)
+c:/Users/vinma/Documents/Chemie Studium/5. Semester/Biochemie Lab/BC-Lab/DNA_I_III/DNA_I_III_group23_Kuemmerle_Haase.tex:167: Missing $ inserted.
+<inserted text> 
+                $
+l.167 \printbibliography[]
+                          
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/vinma/Documents/Chemie Studium/5. Semester/Biochemie Lab/BC-Lab/DNA_I_III/DNA_I_III_group23_Kuemmerle_Haase.tex:167: Missing $ inserted.
+<inserted text> 
+                $
+l.167 \printbibliography[]
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+
+[3] (./DNA_I_III_group23_Kuemmerle_Haase.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                DNA_I_III_group23_Kuemmerle_Haase
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'DNA_I_III_group23_Kuemmerle_Haase.run.xml'.
 \openout1 = `DNA_I_III_group23_Kuemmerle_Haase.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 45118 strings out of 467748
- 963594 string characters out of 5431137
- 1911402 words of memory out of 5000000
- 73244 multiletter control sequences out of 15000+600000
- 640114 words of font info for 68 fonts, out of 8000000 for 9000
+ 45245 strings out of 467748
+ 965728 string characters out of 5431137
+ 1910047 words of memory out of 5000000
+ 73379 multiletter control sequences out of 15000+600000
+ 640798 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,19n,107p,11321b,2458s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb>
-Output written on DNA_I_III_group23_Kuemmerle_Haase.pdf (4 pages, 98843 bytes).
+ 108i,19n,107p,11321b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on DNA_I_III_group23_Kuemmerle_Haase.pdf (5 pages, 143019 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 45 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 109 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
