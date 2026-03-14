@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.22)  13 MAR 2026 17:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.22)  14 MAR 2026 09:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1098,8 +1098,7 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (c:/texlive/2025/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 \BKM@id=\count500
-))
-No file DNA_I_III_group23_Kuemmerle_Haase.aux.
+)) (./DNA_I_III_group23_Kuemmerle_Haase.aux)
 \openout1 = `DNA_I_III_group23_Kuemmerle_Haase.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
@@ -1129,7 +1128,7 @@ Package scrbase Info: activating british \listfigurename on input line 99.
 Package scrbase Info: activating british \listtablename on input line 99.
 Package scrbase Info: activating british \refname on input line 99.
 Package scrbase Info: activating british \indexname on input line 99.
-(c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count501
 \scratchdimen=\dimen345
@@ -1232,8 +1231,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [1
 
-{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
-No file DNA_I_III_group23_Kuemmerle_Haase.toc.
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] (./DNA_I_III_group23_Kuemmerle_Haase.toc)
 \tf@toc=\write5
 \openout5 = `DNA_I_III_group23_Kuemmerle_Haase.toc'.
 
@@ -1254,79 +1252,31 @@ l.152 \newpage
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.165 \newpage
+l.167 \newpage
                [2]
-c:/Users/vinma/Documents/Chemie Studium/5. Semester/Biochemie Lab/BC-Lab/DNA_I_III/DNA_I_III_group23_Kuemmerle_Haase.tex:167: Missing $ inserted.
-<inserted text> 
-                $
-l.167 \printbibliography[]
-                          
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-c:/Users/vinma/Documents/Chemie Studium/5. Semester/Biochemie Lab/BC-Lab/DNA_I_III/DNA_I_III_group23_Kuemmerle_Haase.tex:167: Missing $ inserted.
-<inserted text> 
-                $
-l.167 \printbibliography[]
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-c:/Users/vinma/Documents/Chemie Studium/5. Semester/Biochemie Lab/BC-Lab/DNA_I_III/DNA_I_III_group23_Kuemmerle_Haase.tex:167: Missing $ inserted.
-<inserted text> 
-                $
-l.167 \printbibliography[]
-                          
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-c:/Users/vinma/Documents/Chemie Studium/5. Semester/Biochemie Lab/BC-Lab/DNA_I_III/DNA_I_III_group23_Kuemmerle_Haase.tex:167: Missing $ inserted.
-<inserted text> 
-                $
-l.167 \printbibliography[]
-                          
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
 
 [3] (./DNA_I_III_group23_Kuemmerle_Haase.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                DNA_I_III_group23_Kuemmerle_Haase
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'DNA_I_III_group23_Kuemmerle_Haase.run.xml'.
 \openout1 = `DNA_I_III_group23_Kuemmerle_Haase.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 45245 strings out of 467748
- 965728 string characters out of 5431137
- 1910047 words of memory out of 5000000
- 73379 multiletter control sequences out of 15000+600000
- 640798 words of font info for 69 fonts, out of 8000000 for 9000
+ 45282 strings out of 467748
+ 966729 string characters out of 5431137
+ 1911325 words of memory out of 5000000
+ 73407 multiletter control sequences out of 15000+600000
+ 642245 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,19n,107p,11321b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on DNA_I_III_group23_Kuemmerle_Haase.pdf (5 pages, 143019 bytes).
+<c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on DNA_I_III_group23_Kuemmerle_Haase.pdf (5 pages, 173537 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
+ 126 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 500000)
  53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
