@@ -74,9 +74,9 @@
 \ifoot{\empty} 
 
 \usepackage[en-GB]{datetime2} 
-\DTMsetdatestyle{ddmmyyyy}
+%\DTMlangsetup[en-GB]{ord=omit} % Optional: "10 March" statt "10th March"
 
-\newcommand{\VERSUCHSDATUM}{\DTMdisplaydate{2026}{3}{10--12}{-1}}
+\newcommand{\VERSUCHSDATUM}{\DTMdisplaydate{2026}{3}{11}{-1}}
 \newcommand{\PROTOKOLLDATUM}{\today}
 
 \newcommand{\VerfasserEINS}{Vincent Kümmerle}
@@ -90,11 +90,11 @@
 \newcommand{\StudiengangZWEI}{B.Sc. Chemie}
 
 
-\newcommand{\BETREUER}{Hermann Timofeev}
+\newcommand{\BETREUER}{Leonie Dossmann}
 \newcommand{\GRUPPENNR}{23}
 
 \newcommand{\VERSUCHSNR}{}
-\newcommand{\VERSUCHSNAME}{DNA I and III}
+\newcommand{\VERSUCHSNAME}{DNA II}
 
 
 \begin{document}
@@ -152,14 +152,19 @@
 
 \newpage
 \section{Materials and methods}
-All experiments were performed as described in the course manual unless stated otherwise\parencite{Skript}.
+All experiments were performed as described in the course manual unless stated otherwise \parencite{Skript}.
 The deviations from the course manual are described below.
 
 
 \section{Results}
 
 
-\parencite{Ratios}.
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{AGE_DNA2.png}
+    \caption{Agarose gel electrophoresis of the restriction digestion of plasmid DNA with EcoRI-HF, DpnI and DpnII.}
+    \label{fig:gel}
+\end{figure}
 
 \section{Discussion}
 
