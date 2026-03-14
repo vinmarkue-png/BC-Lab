@@ -13,10 +13,13 @@
 \usepackage{framed, color} 
 \usepackage{scrlayer-scrpage}
 \usepackage{siunitx}
+\usepackage{upgreek}
+\usepackage{booktabs}
 \usepackage{caption}
 \usepackage{subcaption}
 \renewcaptionname{british}{\figurename}{Fig.}
 \renewcaptionname{british}{\tablename}{Tab.}
+\usepackage{textcomp}
 \sisetup{
     detect-weight=true, 
     detect-family=true,
@@ -151,13 +154,88 @@
 
 \newpage
 \section{Materials and methods}
-All experiments were performed as described in the course manual unless stated otherwise\parencite{Skript}.
+All experiments were performed as described in the course manual unless stated otherwise \parencite{Skript}.
 The deviations from the course manual are described below.
+The centrifugation of the crude extract was already performed by the supervisor, so the remaining supernatant was directly applied to the column. \\
+The flow through fraction was collected right after the application of the GFP sample directly to the Eppendorf tube instead of collecting the whole flow through at first and then taking 10 \textmu L of it for the SDS-PAGE analysis.\\
+Additionally, the volumes of the components of the resolving and stacking gel were altered according to the instructions of the supervisor, which are listed in \autoref{tab:gel}.
 
+\begin{table}[H]
+    \centering
+    \caption{Components for the gels of one prepared SDS-PAGE.}
+    \label{tab:gel}
+    \begin{tabular}{crccr}
+        \toprule
+        \multicolumn{2}{c}{resolving gel} & & \multicolumn{2}{c}{stacking gel} \\
+        reagent & volume & & reagent & volume \\
+        \midrule
+        1.5 M Tris-HCl, pH 8.8 & 2 mL & & 0.5 M Tris-HCl, pH 6.8 & 1 mL \\
+        \ch{ddH2O} & 1.8 mL & & \ch{ddH2O} & 2.24 mL \\
+        10\% SDS & 80 $\upmu$L & & 10\% SDS & 40 $\upmu$L \\
+        30\% AA/BA & 4 mL & & 30\% AA/BA & 0.68 mL \\
+        40\% APS & 16 $\upmu$L & & 40\% APS & 8 $\upmu$L \\
+        TEMED & 16 $\upmu$L & & TEMED & 8 $\upmu$L \\
+    \end{tabular}
+\end{table}
+\newpage
 
 \section{Results}
+In this experiment, the GFP with a His-tag was purified using Ni-NTA affinity chromatography and analyzed by SDS-PAGE and Western Blot. Additionally, the absorption spectra of the eluted fractions were recorded to determine the concentration of the purified GFP in the fractions.
 
-\parencite{Ratios}.
+\subsection{UV/Vis spectroscopy}
+One method to determine the concentration of a protein in a solution is to measure the absorption at 280 nm and to calculate the concentration using the Beer-Lambert law described in \autoref{eq:beer}.
+\begin{equation}
+    A_\lambda = \varepsilon_\lambda \cdot c \cdot l
+    \label{eq:beer}
+\end{equation}
+where $A_{\lambda}$ is the absorption at wavelength $\lambda$, $\varepsilon_{\lambda}$ is the molar extinction coefficient, $c$ is the concentration and $l$ is the path length of the cuvette, which is usually 1 cm.
+By rearranging the equation and inserting $\varepsilon_{\SI{280}{nm}} = \SI{22000}{\frac{L}{mol \cdot cm}}$ as the molar extinction coefficient for GFP (\cite{Skript}), the concentration of each fraction can be calculated as shown in \autoref{eq:conc}.
+\begin{equation}    
+    c = \frac{A_{\SI{280}{nm}}}{\SI{22000}{\frac{L}{mol \cdot cm}} \cdot \SI{1}{cm}}
+    \label{eq:conc}
+\end{equation}
+
+The results of the UV/Vis spectroscopy with NanoDrop are shown in \autoref{tab:spec} with the absorption at 280 nm, the calculated concentration of GFP and the quotient of the absorption at 260 nm and 280 nm.
+\begin{table}[H]
+    \centering
+    \caption{Results of the UV/Vis spectroscopy with NanoDrop and the caluculated concentrations of GFP in elution fractions E1-E6.}
+    \label{tab:spec}
+    \begin{tabular}{cccc}
+         fraction & $A_{\SI{280}{nm}}$ & $c$ / $\mathrm{\frac{\upmu mol}{L}}$ & $\frac{A_{\SI{260}{nm}}}{A_{\SI{280}{nm}}}$ \\
+         \midrule
+         E1 & & & \\
+         E2 & & & \\
+         E3 & & & \\
+         E4 & & & \\    
+         E5 & & & \\
+         E6 & & & \\
+    \end{tabular}
+\end{table}
+The absorption and concentration values from \autoref{tab:spec} show that the concentration of GFP in the elution fraction E2 is the highest and that it decreases in the following fractions until no absorption is detected in E5 and E6, indicating that the purified GFP is mostly present in E2 and E3 and to a smaller extent in E4.  The quotient of the absorption at 260 nm and 280 nm is an indicator for the purity of the protein solution, where a value of around 0.6 indicates a pure protein solution and higher values indicate contamination with DNA \parencite{Ratios}. The values of the quotient in \autoref{tab:spec} show that the elution fractions E2 and E3 have quotients of 0.56 and 0.63, indicating that these fractions contain mostly pure GFP, while the other fractions have higher values, indicating contamination with DNA.
+Therefore, it can be assumed that the purification and elution of GFP from the column was successful.
+
+
+
+\subsection{Molecular weight determination}
+
+% Coomassie-stained gel image + calibration curve
+
+The stained gel in \autoref{fig:gel} shows one smeared band in the lane of the flow through, which can be explained by the altered protocol of collecting only a small fraction of the flow through and therefore not loading all proteins from the GFP supernatant on the gel.
+
+% \begin{figure}[H]
+%     \centering
+%     \includegraphics[width=0.8\textwidth]{.tif}
+%     \caption{Coomassie-stained SDS-PAGE gel.}
+%     \label{fig:gel}
+% \end{figure}
+
+
+
+
+
+% Western Blot
+
+
 
 \section{Discussion}
 

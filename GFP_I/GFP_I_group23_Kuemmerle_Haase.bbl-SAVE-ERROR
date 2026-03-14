@@ -1,0 +1,123 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{Ratios}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=1d416001fdc45517564238326b6d343a}{%
+           family={DeNovix},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{1d416001fdc45517564238326b6d343a}
+      \strng{fullhash}{1d416001fdc45517564238326b6d343a}
+      \strng{fullhashraw}{1d416001fdc45517564238326b6d343a}
+      \strng{bibnamehash}{1d416001fdc45517564238326b6d343a}
+      \strng{authorbibnamehash}{1d416001fdc45517564238326b6d343a}
+      \strng{authornamehash}{1d416001fdc45517564238326b6d343a}
+      \strng{authorfullhash}{1d416001fdc45517564238326b6d343a}
+      \strng{authorfullhashraw}{1d416001fdc45517564238326b6d343a}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Purity Ratios Explained}
+      \field{urlday}{14}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.denovix.com/tn-130-purity-ratios-explained/#:~:text=
+      \endverb
+      \verb{url}
+      \verb https://www.denovix.com/tn-130-purity-ratios-explained/#:~:text=
+      \endverb
+    \endentry
+    \entry{Skript}{manual}{}{}
+      \name{author}{1}{}{%
+        {{hash=48db2ba217d4c00f2440c9f3873dd2e8}{%
+           family={{Lab Manual}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart}%
+      }
+      \list{organization}{1}{%
+        {Universität Stuttgart}%
+      }
+      \strng{namehash}{48db2ba217d4c00f2440c9f3873dd2e8}
+      \strng{fullhash}{48db2ba217d4c00f2440c9f3873dd2e8}
+      \strng{fullhashraw}{48db2ba217d4c00f2440c9f3873dd2e8}
+      \strng{bibnamehash}{48db2ba217d4c00f2440c9f3873dd2e8}
+      \strng{authorbibnamehash}{48db2ba217d4c00f2440c9f3873dd2e8}
+      \strng{authornamehash}{48db2ba217d4c00f2440c9f3873dd2e8}
+      \strng{authorfullhash}{48db2ba217d4c00f2440c9f3873dd2e8}
+      \strng{authorfullhashraw}{48db2ba217d4c00f2440c9f3873dd2e8}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Experiment GFP I}
+      \field{year}{2025}
+    \endentry
+    \entry{SkriptmitAutor}{manual}{}{}
+      \name{author}{2}{}{%
+        {{hash=842b2abcddf1cc76cbc20b4ff87ea1c7}{%
+           family={Rathert},
+           familyi={R\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=2579c654a54873b358280d5f1619dedf}{%
+           family={Jeltsch},
+           familyi={J\bibinitperiod},
+           given={Albert},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart}%
+      }
+      \list{organization}{1}{%
+        {Universität Stuttgart}%
+      }
+      \strng{namehash}{59989fceede1d74a78bf0ad09f5aac03}
+      \strng{fullhash}{59989fceede1d74a78bf0ad09f5aac03}
+      \strng{fullhashraw}{59989fceede1d74a78bf0ad09f5aac03}
+      \strng{bibnamehash}{59989fceede1d74a78bf0ad09f5aac03}
+      \strng{authorbibnamehash}{59989fceede1d74a78bf0ad09f5aac03}
+      \strng{authornamehash}{59989fceede1d74a78bf0ad09f5aac03}
+      \strng{authorfullhash}{59989fceede1d74a78bf0ad09f5aac03}
+      \strng{authorfullhashraw}{59989fceede1d74a78bf0ad09f5aac03}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Experiment GFP I}
+      \field{year}{2025}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

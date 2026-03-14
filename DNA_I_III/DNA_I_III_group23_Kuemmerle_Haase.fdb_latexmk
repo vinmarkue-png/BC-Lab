@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber DNA_I_III_group23_Kuemmerle_Haase"] 1773475563.91533 "DNA_I_III_group23_Kuemmerle_Haase.bcf" "DNA_I_III_group23_Kuemmerle_Haase.bbl" "DNA_I_III_group23_Kuemmerle_Haase" 1773475610.17325 0
-  "DNA_I_III_group23_Kuemmerle_Haase.bcf" 1773475609 108790 f2eb514e4d9bdf053c8e798070597c42 "pdflatex"
+["biber DNA_I_III_group23_Kuemmerle_Haase"] 1773475563.91533 "DNA_I_III_group23_Kuemmerle_Haase.bcf" "DNA_I_III_group23_Kuemmerle_Haase.bbl" "DNA_I_III_group23_Kuemmerle_Haase" 1773477494.00016 0
+  "DNA_I_III_group23_Kuemmerle_Haase.bcf" 1773477493 108790 f2eb514e4d9bdf053c8e798070597c42 "pdflatex"
   "lit.bib" 1773475563 592 1d474c2c48309a6e3bad75d66309b1fe ""
   (generated)
   "DNA_I_III_group23_Kuemmerle_Haase.bbl"
   "DNA_I_III_group23_Kuemmerle_Haase.blg"
   (rewritten before read)
-["pdflatex"] 1773475606.83082 "c:/Users/vinma/Documents/Chemie Studium/5. Semester/Biochemie Lab/BC-Lab/DNA_I_III/DNA_I_III_group23_Kuemmerle_Haase.tex" "DNA_I_III_group23_Kuemmerle_Haase.pdf" "DNA_I_III_group23_Kuemmerle_Haase" 1773475610.17407 0
-  "DNA_I_III_group23_Kuemmerle_Haase.aux" 1773475609 2656 094c989ab8d3ac27c35bf290a9193e6d "pdflatex"
+["pdflatex"] 1773477490.67372 "c:/Users/vinma/Documents/Chemie Studium/5. Semester/Biochemie Lab/BC-Lab/DNA_I_III/DNA_I_III_group23_Kuemmerle_Haase.tex" "DNA_I_III_group23_Kuemmerle_Haase.pdf" "DNA_I_III_group23_Kuemmerle_Haase" 1773477494.00099 0
+  "DNA_I_III_group23_Kuemmerle_Haase.aux" 1773477493 2656 29926e5d6cbd5aacfffce67eafd8dc8c "pdflatex"
   "DNA_I_III_group23_Kuemmerle_Haase.bbl" 1773475566 4524 01647e406c59d7bc8743b0029cb7b57f "biber DNA_I_III_group23_Kuemmerle_Haase"
-  "DNA_I_III_group23_Kuemmerle_Haase.run.xml" 1773475609 2538 ac1600c8f2089d043901ada88041ac6f "pdflatex"
-  "DNA_I_III_group23_Kuemmerle_Haase.tex" 1773475605 4648 0746b3516a3257aaeac6a57279ecf81d ""
-  "DNA_I_III_group23_Kuemmerle_Haase.toc" 1773475609 435 e6a94a091f8e5ba7e7547323420058e6 "pdflatex"
-  "c:/Users/vinma/Documents/Chemie Studium/5. Semester/Biochemie Lab/BC-Lab/DNA_I_III/DNA_I_III_group23_Kuemmerle_Haase.tex" 1773475605 4648 0746b3516a3257aaeac6a57279ecf81d ""
+  "DNA_I_III_group23_Kuemmerle_Haase.run.xml" 1773477493 2538 ac1600c8f2089d043901ada88041ac6f "pdflatex"
+  "DNA_I_III_group23_Kuemmerle_Haase.tex" 1773477486 4671 5e9bcb57b5af4b9e8155e027868c6ba8 ""
+  "DNA_I_III_group23_Kuemmerle_Haase.toc" 1773477493 435 e6a94a091f8e5ba7e7547323420058e6 "pdflatex"
+  "c:/Users/vinma/Documents/Chemie Studium/5. Semester/Biochemie Lab/BC-Lab/DNA_I_III/DNA_I_III_group23_Kuemmerle_Haase.tex" 1773477486 4671 5e9bcb57b5af4b9e8155e027868c6ba8 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1761072433 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1761073560 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecbx1728.tfm" 1761073056 3584 ad49a18d8515beef6d92d4d3f197d0fd ""
@@ -156,6 +156,7 @@
   "c:/texlive/2025/texmf-dist/tex/latex/biblatex/lbx/english.lbx" 1761071834 40021 daa5a82ed0967f3ac4b77cb8384cac55 ""
   "c:/texlive/2025/texmf-dist/tex/latex/bookmark/bkm-pdftex.def" 1761072005 8818 aa5157b46368efebf023abff55611467 ""
   "c:/texlive/2025/texmf-dist/tex/latex/bookmark/bookmark.sty" 1761072005 18245 97e6be180cf07bb6f7008cfdaaecfce5 ""
+  "c:/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty" 1761072012 6078 f1cb470c9199e7110a27851508ed7a5c ""
   "c:/texlive/2025/texmf-dist/tex/latex/caption/caption.sty" 1761072135 56128 c2ccf1a29d78c33bc553880402e4fb9a ""
   "c:/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty" 1761072135 72619 ee90b6612147680fd73c3b1406a74245 ""
   "c:/texlive/2025/texmf-dist/tex/latex/caption/subcaption.sty" 1761072135 12494 0c0cdb824278a4d51cefeb2e79901315 ""
