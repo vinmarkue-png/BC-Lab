@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.22)  15 MAR 2026 16:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.10.22)  15 MAR 2026 17:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -496,7 +496,13 @@ Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
 \extratabsurround=\skip73
 \backup@length=\skip74
 \ar@cellbox=\box70
-)) (c:/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
+)) (c:/texlive/2025/texmf-dist/tex/latex/was/upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+) (c:/texlive/2025/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen191
 \lightrulewidth=\dimen192
@@ -805,9 +811,9 @@ Package: xparse 2024-08-16 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
 ))
-Package biblatex Info: Delimiter 'multinamedelim' in context '' already defined, overwriting on input line 42.
-Package biblatex Info: Delimiter 'finalnamedelim' in context '' already defined, overwriting on input line 43.
-Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting on input line 45.
+Package biblatex Info: Delimiter 'multinamedelim' in context '' already defined, overwriting on input line 43.
+Package biblatex Info: Delimiter 'finalnamedelim' in context '' already defined, overwriting on input line 44.
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting on input line 46.
  (c:/texlive/2025/texmf-dist/tex/latex/chemgreek/chemgreek.sty
 Package: chemgreek 2020/01/16 v1.1a interface for upright Greek letters for use in chemistry (CN)
 \l__chemgreek_tmpa_int=\count475
@@ -1076,8 +1082,8 @@ Package: chemformula 2022/01/23 v4.17 typeset chemical compounds and reactions (
 \l__chemformula_plus_space_skip=\skip103
 \l__chemformula_minus_space_skip=\skip104
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 61.
-Package hyperref Info: Option `linktocpage' set `true' on input line 61.
+Package hyperref Info: Option `colorlinks' set `true' on input line 62.
+Package hyperref Info: Option `linktocpage' set `true' on input line 62.
  (c:/texlive/2025/texmf-dist/tex/latex/datetime2/datetime2.sty
 Package: datetime2 2021/03/21 v1.5.7 (NLCT) date and time formats
  (c:/texlive/2025/texmf-dist/tex/latex/tracklang/tracklang.sty
@@ -1111,7 +1117,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 100.
+(scrartcl)           before \begin{document} on input line 101.
  (c:/texlive/2025/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (c:/texlive/2025/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
@@ -1120,33 +1126,33 @@ File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
 )) (./DNA_I_III_group23_Kuemmerle_Haase.aux)
 \openout1 = `DNA_I_III_group23_Kuemmerle_Haase.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-Package scrbase Info: activating british \abstractname on input line 100.
-Package scrbase Info: activating british \partname on input line 100.
-Package scrbase Info: activating british \figurename on input line 100.
-Package scrbase Info: activating british \tablename on input line 100.
-Package scrbase Info: activating british \contentsname on input line 100.
-Package scrbase Info: activating british \listfigurename on input line 100.
-Package scrbase Info: activating british \listtablename on input line 100.
-Package scrbase Info: activating british \refname on input line 100.
-Package scrbase Info: activating british \indexname on input line 100.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 101.
+LaTeX Font Info:    ... okay on input line 101.
+Package scrbase Info: activating british \abstractname on input line 101.
+Package scrbase Info: activating british \partname on input line 101.
+Package scrbase Info: activating british \figurename on input line 101.
+Package scrbase Info: activating british \tablename on input line 101.
+Package scrbase Info: activating british \contentsname on input line 101.
+Package scrbase Info: activating british \listfigurename on input line 101.
+Package scrbase Info: activating british \listtablename on input line 101.
+Package scrbase Info: activating british \refname on input line 101.
+Package scrbase Info: activating british \indexname on input line 101.
  (c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count505
@@ -1166,7 +1172,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (c:/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 100.
+Package hyperref Info: Link coloring ON on input line 101.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1232,18 +1238,18 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'DNA_I_III_group23_Kuemmerle_Haase.bbl' found.
  (./DNA_I_III_group23_Kuemmerle_Haase.bbl)
-Package biblatex Info: Reference section=0 on input line 100.
-Package biblatex Info: Reference segment=0 on input line 100.
+Package biblatex Info: Reference section=0 on input line 101.
+Package biblatex Info: Reference segment=0 on input line 101.
 
-Package chemgreek Info: Activating mapping `default' on line 100.
+Package chemgreek Info: Activating mapping `upgreek' on line 101.
 
-Package scrbase Info: activating british \figurename on input line 100.
-Package scrbase Info: activating british \tablename on input line 100.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 116.
+Package scrbase Info: activating british \figurename on input line 101.
+Package scrbase Info: activating british \tablename on input line 101.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 117.
  (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 116.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 117.
  (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -1257,24 +1263,32 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 [2]
+<PCR.png, id=35, 298.716pt x 285.4665pt>
+File: PCR.png Graphic file (type png)
+<use PCR.png>
+Package pdftex.def Info: PCR.png  used on input line 156.
+(pdftex.def)             Requested size: 248.95006pt x 237.91719pt.
+
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.153 \newpage
-               [1
+l.164 
+       [1
 
-]
+ <./PCR.png>]
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.168 \newpage
+l.172 \newpage
                [2]
 
-[3] (./DNA_I_III_group23_Kuemmerle_Haase.aux)
+[3]
+
+[4] (./DNA_I_III_group23_Kuemmerle_Haase.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
@@ -1284,18 +1298,18 @@ Package logreq Info: Writing requests to 'DNA_I_III_group23_Kuemmerle_Haase.run.
 
  ) 
 Here is how much of TeX's memory you used:
- 45352 strings out of 467748
- 967863 string characters out of 5431137
- 1912188 words of memory out of 5000000
- 73473 multiletter control sequences out of 15000+600000
- 642245 words of font info for 71 fonts, out of 8000000 for 9000
+ 45448 strings out of 467748
+ 969090 string characters out of 5431137
+ 1916374 words of memory out of 5000000
+ 73562 multiletter control sequences out of 15000+600000
+ 643094 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,19n,107p,11321b,2457s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on DNA_I_III_group23_Kuemmerle_Haase.pdf (5 pages, 173672 bytes).
+<c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsl1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on DNA_I_III_group23_Kuemmerle_Haase.pdf (6 pages, 259492 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 148 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
+ 16 named destinations out of 1000 (max. 500000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 

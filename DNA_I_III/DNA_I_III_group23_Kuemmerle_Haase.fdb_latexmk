@@ -1,18 +1,19 @@
 # Fdb version 4
-["biber DNA_I_III_group23_Kuemmerle_Haase"] 1773475563.91533 "DNA_I_III_group23_Kuemmerle_Haase.bcf" "DNA_I_III_group23_Kuemmerle_Haase.bbl" "DNA_I_III_group23_Kuemmerle_Haase" 1773587952.39439 0
-  "DNA_I_III_group23_Kuemmerle_Haase.bcf" 1773587951 108790 f2eb514e4d9bdf053c8e798070597c42 "pdflatex"
+["biber DNA_I_III_group23_Kuemmerle_Haase"] 1773591679.5971 "DNA_I_III_group23_Kuemmerle_Haase.bcf" "DNA_I_III_group23_Kuemmerle_Haase.bbl" "DNA_I_III_group23_Kuemmerle_Haase" 1773593118.2977 0
+  "DNA_I_III_group23_Kuemmerle_Haase.bcf" 1773593117 108965 33e0c3c1c45a3addce38b13661fc449e "pdflatex"
   "lit.bib" 1773475563 592 1d474c2c48309a6e3bad75d66309b1fe ""
   (generated)
   "DNA_I_III_group23_Kuemmerle_Haase.bbl"
   "DNA_I_III_group23_Kuemmerle_Haase.blg"
   (rewritten before read)
-["pdflatex"] 1773587944.32041 "c:/Users/vinma/Documents/Chemie Studium/5. Semester/Biochemie Lab/BC-Lab/DNA_I_III/DNA_I_III_group23_Kuemmerle_Haase.tex" "DNA_I_III_group23_Kuemmerle_Haase.pdf" "DNA_I_III_group23_Kuemmerle_Haase" 1773587952.39573 0
-  "DNA_I_III_group23_Kuemmerle_Haase.aux" 1773587951 2656 29926e5d6cbd5aacfffce67eafd8dc8c "pdflatex"
-  "DNA_I_III_group23_Kuemmerle_Haase.bbl" 1773475566 4524 01647e406c59d7bc8743b0029cb7b57f "biber DNA_I_III_group23_Kuemmerle_Haase"
-  "DNA_I_III_group23_Kuemmerle_Haase.run.xml" 1773587951 2538 ac1600c8f2089d043901ada88041ac6f "pdflatex"
-  "DNA_I_III_group23_Kuemmerle_Haase.tex" 1773587948 4628 02793d1d4f158d281a19f3941ebaebbc ""
-  "DNA_I_III_group23_Kuemmerle_Haase.toc" 1773587951 435 e6a94a091f8e5ba7e7547323420058e6 "pdflatex"
-  "c:/Users/vinma/Documents/Chemie Studium/5. Semester/Biochemie Lab/BC-Lab/DNA_I_III/DNA_I_III_group23_Kuemmerle_Haase.tex" 1773587948 4628 02793d1d4f158d281a19f3941ebaebbc ""
+["pdflatex"] 1773593115.03347 "c:/Users/vinma/Documents/Chemie Studium/5. Semester/Biochemie Lab/BC-Lab/DNA_I_III/DNA_I_III_group23_Kuemmerle_Haase.tex" "DNA_I_III_group23_Kuemmerle_Haase.pdf" "DNA_I_III_group23_Kuemmerle_Haase" 1773593118.2995 0
+  "DNA_I_III_group23_Kuemmerle_Haase.aux" 1773593117 3195 a79cf75b85e6dbfad7141a98d4c15b5a "pdflatex"
+  "DNA_I_III_group23_Kuemmerle_Haase.bbl" 1773591682 3107 c78ccaa6d2e2c3e89e0ebe8abe6ec71e "biber DNA_I_III_group23_Kuemmerle_Haase"
+  "DNA_I_III_group23_Kuemmerle_Haase.run.xml" 1773593118 2538 ac1600c8f2089d043901ada88041ac6f "pdflatex"
+  "DNA_I_III_group23_Kuemmerle_Haase.tex" 1773593096 7988 c4f2564203b9ac268dfb2c1ca2fce8ff ""
+  "DNA_I_III_group23_Kuemmerle_Haase.toc" 1773593118 435 330b9d8f9186662fcf2ef803029e26d8 "pdflatex"
+  "PCR.png" 1773590028 84081 7a911fd4a8ee6448fd57119db3f87858 ""
+  "c:/Users/vinma/Documents/Chemie Studium/5. Semester/Biochemie Lab/BC-Lab/DNA_I_III/DNA_I_III_group23_Kuemmerle_Haase.tex" 1773593096 7988 c4f2564203b9ac268dfb2c1ca2fce8ff ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1761072433 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1761073560 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecbx1728.tfm" 1761073056 3584 ad49a18d8515beef6d92d4d3f197d0fd ""
@@ -30,6 +31,8 @@
   "c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecti1200.tfm" 1761073056 3072 8b5a64dc91775463bc95e2d818524028 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1761070986 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1761070986 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
+  "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm10.tfm" 1761070986 1228 9be37fdf0dc0e1f4df4af3594876d628 ""
+  "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/euler/eurm7.tfm" 1761070986 1228 22a83614922c993c1b2e124955a38ca1 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1761070986 916 f87d7c45f9c908e672703b83b72241a3 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1761070986 928 2dc8d444221b7a635bb58038579b861a ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1761070986 908 2921f8a10601f252058503cc6570e581 ""
@@ -44,6 +47,8 @@
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1761072415 1124 6c73e740cf17375f03eec0ee63599741 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1761072415 1116 933a60c408fc0a863a92debe84b2d294 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1761072415 1120 8b7d695260f3cff42e636090a8002094 ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1761070986 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
+  "c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb" 1761070986 22644 35cfbc2e737f53c1da991002473b4310 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb" 1761072433 139826 3796482349bae544f13f54da58f9706d ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb" 1761072433 135938 1a19ff976dd71ec9a67855cdbfd83710 ""
   "c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb" 1761072433 108594 fbea9d43c079f7db25137aae98eddf7a ""
@@ -235,6 +240,7 @@
   "c:/texlive/2025/texmf-dist/tex/latex/translations/translations.sty" 1761112703 44247 2188b95d0ee74e31eca4d316263c58a7 ""
   "c:/texlive/2025/texmf-dist/tex/latex/units/nicefrac.sty" 1761113098 4029 0462ee5ab265cf59dc15a41a3b883101 ""
   "c:/texlive/2025/texmf-dist/tex/latex/url/url.sty" 1761115437 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
+  "c:/texlive/2025/texmf-dist/tex/latex/was/upgreek.sty" 1761115579 5794 9054e31be15d93f1e6bd28cca2b6643f ""
   "c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty" 1761115657 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "c:/texlive/2025/texmf-dist/tex/latex/xfrac/xfrac.sty" 1761115712 14945 a207ee7fd6b8cf6d82afb367c583ddd3 ""
   "c:/texlive/2025/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1761115739 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""

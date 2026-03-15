@@ -13,6 +13,7 @@
 \usepackage{framed, color} 
 \usepackage{scrlayer-scrpage}
 \usepackage{siunitx}
+\usepackage{upgreek}
 \usepackage{booktabs}
 \usepackage{caption}
 \usepackage{subcaption}
@@ -147,14 +148,28 @@
 
 
 \section{Introduction}
+This lab report describes two experiments: DNA I and DNA III. The general aim of the experiments was to identify which variant of the green fluorescent protein (GFP) gene the received template DNA contains. The three possible variants were the enhanced green fluorescent protein (EGFP), enhanced yellow fluorescent protein
+(EYFP) or enhanced cyan fluorescent protein (ECFP). The identification was done by performing a polymerase chain reaction (PCR) with three specific primers to amplify the gene and analyzed by agarose gel electrophoresis for length determination. Additionally, the template DNA was amplified with universal primers, ligated into the pSCA vector using TOPO-TA cloning and transformed into competent E. coli cells. For investigation of the incubated colonies, the blue-white screening method was used. In the last part, Colony PCR and insert release on isolated plasmid DNA using restriction digestion were performed to screen and verify which colonies contained the correct insert and the plasmid DNA of a positive clone was sent for sequencing \parencite{Skript}.\\
+The polymerase chain reaction (PCR) is a widely used technique to amplify specific DNA sequences \textit{in vitro} by first denaturing the template DNA, then annealing primers to the target sequence and finally elongating the new DNA strand with desoxynucleotidephosphates (dNTPs) and a DNA polymerase. By repeating these steps in up to 35 cycles, the target DNA can be exponentially amplified, as shown in \autoref{fig:PCR}.
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.57\textwidth]{PCR.png}  
+\caption{Schematic representation of the PCR steps: 1. Denaturation, 2. Annealing and 3. Elongation \parencite{Skript}.}
+\label{fig:PCR}
+\end{figure}
+The three variants of the GFP gene differ at single bases in the DNA sequence, enabling the identification of the variant by comparing the PCR product sizes with gel electrophoresis and the corresponding sequencing results.\\
+In the TOPO-TA cloning method Topoisomerase I is used to ligate the PCR product (insert) with a 3' adenosine overhang through A-U* base pairing into the linear, two stranded TOPO-TA vector, which contains a gene for ampicillin resistance and a lacZ gene for blue-white screening. The transformation of the ligation product into competent cells expresses Cre recombinase, which circularizes the plasmid by recombining the loxP sites. 
+Blue-white screening is performed by growing colonies on agar plates containing X-gal, which is a substrate for the enzyme $\beta$-galactosidase encoded by the lacZ gene. 
+Vectors with the correct insert disrupt the lacZ gene, resulting in white colonies, while vectors without the insert form blue colonies due to the cleavage of X-gal \parencite{Skript}.
 
-\parencite{SkriptmitAutor}.
+\section{Materials and methods}
+All experiments were performed as described in the course manual unless stated otherwise \parencite{Skript}.
+The deviations from the course manual are described below.
+In the transformation step, 2 $\upmu$L of the thawed competent cells were added to 6 $\upmu$L of the cloning reaction mixture instead of adding 2 $\upmu$L of the cloning reaction mixture to the whole amount of competent cells.
+Therefore on Day 2, the plates from group 26 with the same template DNA 1 were used, because no colonies were grown due to the error when preparing the transformation reaction.
+Furthermore, for the agarose gel electrophoresis of the Colony PCR products and the insert release, 6 $\upmu$L of the DNA marker (Gene Ruler, Fermentas) were loaded instead of 5 $\upmu$L.
 
 \newpage
-\section{Materials and methods}
-All experiments were performed as described in the course manual unless stated otherwise\parencite{Skript}.
-The deviations from the course manual are described below.
-
 
 \section{Results}
 
